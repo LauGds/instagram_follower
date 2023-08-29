@@ -4,7 +4,7 @@ from selenium.webdriver.common.by import By
 import time
 from selenium.common.exceptions import ElementClickInterceptedException
 
-CHROME_DRIVER_PATH = r"D:\Documents\Laura\100_days_coding\chromedriver_win32\chromedriver.exe"
+CHROME_DRIVER_PATH = r"PATH\chromedriver.exe"
 EMAIL = "EMAIL"
 PASSWORD = "PASSWORD"
 SIMILAR_ACCOUNT = "kimkardashian"
