@@ -6,7 +6,7 @@ from selenium.common.exceptions import ElementClickInterceptedException
 
 CHROME_DRIVER_PATH = r"PATH\chromedriver.exe"
 EMAIL = "EMAIL"
-PASSWORD = "PASSWORD"
+PASSWORD = "PASS"
 SIMILAR_ACCOUNT = "kimkardashian"
 SERVICE = Service(CHROME_DRIVER_PATH)
 
