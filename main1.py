@@ -5,7 +5,7 @@ import time
 from selenium.common.exceptions import ElementClickInterceptedException
 
 CHROME_DRIVER_PATH = r"D:\Documents\Laura\100_days_coding\chromedriver_win32\chromedriver.exe"
-EMAIL = "laucoding@gmail.com"
+EMAIL = "EMAIL"
 PASSWORD = "PASSWORD"
 SIMILAR_ACCOUNT = "kimkardashian"
 SERVICE = Service(CHROME_DRIVER_PATH)
